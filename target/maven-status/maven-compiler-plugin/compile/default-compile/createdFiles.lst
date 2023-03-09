@@ -1,0 +1,8 @@
+org\demo\InvokeBank.class
+org\legalperson\MyContract.class
+org\TestPerson.class
+org\TestSBank.class
+org\legalperson\MyContractImpl.class
+org\demo\ISBank.class
+org\legalperson\InvokeMyContract.class
+org\legalperson\Person.class
